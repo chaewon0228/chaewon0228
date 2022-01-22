@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy0402)](https://solved.ac/cy0402)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaewon0228&theme=buefy)](https://git.io/streak-stats)
+<p>
+  <div align=center>
+    <a href="https://solved.ac/cy0402" title="Go to Source">
+      <img align="left" width=400 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cy0402" />
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=chaewon0228&theme=buefy" />
+    </a>
+  </div>
+</p>
   
 
