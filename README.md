@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaewon0228&theme=buefy)](https://git.io/streak-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy0402)](https://solved.ac/cy0402)
+
+<div align=center>
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cy0402)](https://solved.ac/cy0402)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaewon0228&theme=buefy)](https://git.io/streak-stats)
+  
+</div>
