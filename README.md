@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <p>
   <div align=center>
     <a href="https://git.io/streak-stats">
-      <img align="right" width=600 src="https://github-readme-streak-stats.herokuapp.com/?user=chaewon0228&theme=buefy" />
+      <img align="left" width=600 src="https://github-readme-streak-stats.herokuapp.com/?user=chaewon0228&theme=buefy" />
     </a>
     <a href="https://solved.ac/cy0402" title="Go to Source">
-      <img align="left" width=400 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cy0402" />
+      <img align="right" width=400 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cy0402" />
     </a>
   </div>
 </p>
