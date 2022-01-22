@@ -1,7 +1,9 @@
 <br>
 
 <h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patua+One&color=%238629F7&size=30&duration=4998&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&lines=Hi%2C+there++(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95%EF%BE%89)*%EF%BD%A5%EF%BE%9F%E2%9C%A7;Nice+to+meet+you+(%E2%97%8F'%E2%97%A1'%E2%97%8F))](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=%238629F7&size=30&duration=4998&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&lines=Hi%2C+there++(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95%EF%BE%89)*%EF%BD%A5%EF%BE%9F%E2%9C%A7;Nice+to+meet+you+(%E2%97%8F'%E2%97%A1'%E2%97%8F)">
+  </a>
 </h1>
 
 <!--
