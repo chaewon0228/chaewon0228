@@ -3,9 +3,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=%23F66969&size=30&duration=4998&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&lines=Hi%2C+there+(+%E2%97%8F'%E2%97%A1'%E2%97%8F)">
+    <hr>
     <img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=%233F1B1B&size=25&duration=4998&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&lines=Nice+to+meet+you!)">
   </a>
 </h1>
+
+
 
 <!--
 **chaewon0228/chaewon0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
       <img align="left" width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=chaewon0228&theme=buefy" />
     </a>
     <a href="https://solved.ac/cy0402" title="Go to Source">
-      <img align="right" width=395 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cy0402" />
+      <img align="right" width=380 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cy0402" />
     </a>
   </div>
 </p>
