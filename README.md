@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=%23F66969&size=30&duration=4998&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&lines=+++++Hi%2C+there+(+%E2%97%8F'%E2%97%A1'%E2%97%8F);&center=true">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=%233F1B1B&size=25&duration=4998&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=++++++Nice+to+meet+you!;&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&color=%233F1B1B&size=25&duration=4998&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&lines=++++++Nice+to+meet+you!;&center=true&size=16">
   </a>
 </h1>
 
@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align=center><b> Tech Stack </b></h3>
+<p align=center>
+  
+</p>
 
 <p>
   <div align=center>
