@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align=center><b> 🛠Tech Stack🛠 </b></h3>
+<h3 align=center><b> 🛠 Tech Stack 🛠 </b></h3>
 <p align=center>
   
 </p>
