@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 -->
 
 <h3 align=center><b> 🛠 Tech Stack 🛠 </b></h3>
-<h6 align=center> Techs that I've used at least once </h6>
 
 <p align=center>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
